@@ -1,4 +1,4 @@
-# stocks_prediction_model
+# Examining Stock Trade Trends
 
 The following notebook analyzes publicly available information regarding stock trades made by US House of Representatives members to reach inferences. We first cleaned up the dataset and combined The 116th U.S. House of Representatives at https://www.kaggle.com/datasets/aavigan/house-of-representatives-congress-116 which contains information regarding political affiliation of congresspeople. Next, we evaluate the dataset's owner column's missingness association.
 
